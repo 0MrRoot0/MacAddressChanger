@@ -1,7 +1,10 @@
-# MacAddressChanger
-a Basic PowerShell Mac Address Changer , Change Your Mac Address in 10 Seconds Only!
+# PowerShell Mac Address Changer
+Powerfull One-Liner MAC Address Randomizer for privacy & network pentration testing purposes.
+
 # Usage
-Just Copy&Paste Into PowerShell As Admin (: !
+1- Start PowerShell as Adminstratior
+2- Copy & Paste The script
+
 # License
 ```
 MIT License
