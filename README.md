@@ -1,12 +1,14 @@
-# PowerShell Mac Address Changer
-Powerfull One-Liner MAC Address Randomizer for privacy & network pentration testing purposes.
+# PowerShell MAC Address Changer  
+A powerful one-liner for randomizing your MAC address—perfect for privacy and network penetration testing.  
 
-# Usage
-1- Start PowerShell as Adminstratior
+## 🚀 Usage  
+1. Open **PowerShell as Administrator**  
+2. Copy & paste the script, then run it  
 
-2- Copy & Paste The script
 
-# License
+
+
+## 📜 License
 ```
 MIT License
 
